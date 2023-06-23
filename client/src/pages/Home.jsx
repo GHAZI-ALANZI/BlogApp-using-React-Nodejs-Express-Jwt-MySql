@@ -41,7 +41,7 @@ const Home = () => {
               </Link>
               <p>{getText(post.desc)}</p>
               <button>Read More</button>
-              <hr className="font-weight-bold" />
+             
             </div>
           </div>
         ))}
